@@ -1,5 +1,5 @@
 ### This script filters PAR-CLIP data based on RNA-seq expression > 1 FPKM and then catenates RIP, PAR and RNA-seq data for further analysis 
-
+#Katie is learning github
 library(tidyverse)
 library(dplyr)
 library(reshape2)
